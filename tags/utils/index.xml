@@ -1,21 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>digit4l</title>
-	<link>https:/anders00n.github.io/digit4l/tags/utils/</link>
+	<link>https://anders00n.github.io/digit4l/tags/utils/</link>
 	<description>Recent content in Utils on digit4l</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
 	<lastBuildDate>Sat, 09 Nov 2024 13:20:12 +0500</lastBuildDate>
     
-        <atom:link href="https:/anders00n.github.io/digit4l/tags/utils/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://anders00n.github.io/digit4l/tags/utils/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
 		<title>About</title>
-		<link>https:/anders00n.github.io/digit4l/about/</link>
+		<link>https://anders00n.github.io/digit4l/about/</link>
 		<pubDate>Sat, 09 Nov 2024 13:30:15 +0500</pubDate>
 		
-		<guid>https:/anders00n.github.io/digit4l/about/</guid>
+		<guid>https://anders00n.github.io/digit4l/about/</guid>
 		<description>&lt;p&gt;My name is Andrey. I`m 22 y.o. Living in Yekaterinburg! 😀&lt;/p&gt;
 &lt;p&gt;Heh.&lt;/p&gt;
 </description>
@@ -23,10 +23,10 @@
 	
 	<item>
 		<title>Peerflix</title>
-		<link>https:/anders00n.github.io/digit4l/linux/peerflix/</link>
+		<link>https://anders00n.github.io/digit4l/linux/peerflix/</link>
 		<pubDate>Sat, 09 Nov 2024 13:20:12 +0500</pubDate>
 		
-		<guid>https:/anders00n.github.io/digit4l/linux/peerflix/</guid>
+		<guid>https://anders00n.github.io/digit4l/linux/peerflix/</guid>
 		<description>&lt;p&gt;&lt;img src=&#34;../img/1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is post about &lt;code&gt;peerflix&lt;/code&gt; utils.&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;
