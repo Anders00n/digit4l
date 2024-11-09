@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https:/anders00n.github.io/digit4l/about/</loc>
     <lastmod>2024-11-09T13:30:15+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https:/anders00n.github.io/digit4l/</loc>
     <lastmod>2024-11-09T13:30:15+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/linux/</loc>
+    <loc>https:/anders00n.github.io/digit4l/tags/linux/</loc>
     <lastmod>2024-11-09T13:20:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/linux/</loc>
+    <loc>https:/anders00n.github.io/digit4l/linux/</loc>
     <lastmod>2024-11-09T13:20:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/linux/peerflix/</loc>
+    <loc>https:/anders00n.github.io/digit4l/linux/peerflix/</loc>
     <lastmod>2024-11-09T13:20:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https:/anders00n.github.io/digit4l/tags/</loc>
     <lastmod>2024-11-09T13:20:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/utils/</loc>
+    <loc>https:/anders00n.github.io/digit4l/tags/utils/</loc>
     <lastmod>2024-11-09T13:20:12+05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https:/anders00n.github.io/digit4l/categories/</loc>
   </url>
 </urlset>
