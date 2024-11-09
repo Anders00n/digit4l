@@ -1,0 +1,35 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>digit4l</title>
+	<link>http://localhost:1313/categories/</link>
+	<description>Recent content in Categories on digit4l</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+    
+        <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>About</title>
+		<link>http://localhost:1313/about/</link>
+		<pubDate>Sat, 09 Nov 2024 13:30:15 +0500</pubDate>
+		
+		<guid>http://localhost:1313/about/</guid>
+		<description>&lt;p&gt;My name is Andrey. I`m 22 y.o. Living in Yekaterinburg! 😀&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Peerflix</title>
+		<link>http://localhost:1313/linux/peerflix/</link>
+		<pubDate>Sat, 09 Nov 2024 13:20:12 +0500</pubDate>
+		
+		<guid>http://localhost:1313/linux/peerflix/</guid>
+		<description>&lt;p&gt;&lt;img src=&#34;../img/1.jpg&#34; alt=&#34;img&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This is post about &lt;code&gt;peerflix&lt;/code&gt; utils.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;cp new1 new2
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+	</item>
+	
+	</channel>
+</rss>
